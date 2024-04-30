@@ -9,7 +9,7 @@ Welcome to my portfolio! My name is Brandon Temba and I am a passionate frontend
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Technologies](#technologies)
-- [Skills](#skills)
+- [Services](#services)
 - [Contact](#contact)
 
 ## Projects
@@ -36,13 +36,11 @@ Welcome to my portfolio! My name is Brandon Temba and I am a passionate frontend
 - Responsive Web Design
 - Version Control (GitHub)
 
-## Skills
+## Services
 
-- Proficient in front-end web development technologies and frameworks.
-- Strong understanding of responsive web design principles.
-- Experience with version control systems like Git and GitHub.
-- Excellent problem-solving and debugging skills.
-- Ability to collaborate with cross-functional teams and stakeholders.
+- Web development.
+- IT Consultancy.
+- Digital Marketing.
 
 ## Contact
 
