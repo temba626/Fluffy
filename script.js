@@ -31,4 +31,8 @@ window.onscroll = () => {
     /* Sticky Navbar */
 let header = document.querySelector('header');
 header.classList.toggle('sticky', window.scrollY > 100);
-}
+
+/* Remove Toggle icon and Navbar */
+menuIcon.classList.remove('fa-xmark');
+navbar.classList.remove('active');
+}; 
